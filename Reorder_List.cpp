@@ -12,9 +12,10 @@ Example 2:
 Given 1->2->3->4->5, reorder it to 1->5->2->4->3.
 */
 
-/*
-* 처음엔 Python으로 풀려했으나, Python에는 Linked List를 지원해주는 함수가 없으며 주소 접근에도 불편하다.
-* 따라서 C++이라는 언어로 변경하여 Pointer를 사용하여 풀었다.
+/* 나의 문제 풀이
+
+처음엔 Python으로 풀려했으나, Python에는 Linked List를 지원해주는 함수가 없으며 주소 접근에도 불편하다.
+따라서 C++이라는 언어로 변경하여 Pointer를 사용하여 풀었다.
 */
 
 /**
